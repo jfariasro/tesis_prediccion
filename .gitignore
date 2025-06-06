@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.env
+venv/
+.env
+.DS_Store
+
+# Django
+*.log
+staticfiles/
+media/
+
+# Node
+node_modules/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+yarn.lock
+npm-debug.log*
+
+# React Native
+.expo/
+*.expo
+*.keystore
+android/app/debug.keystore
+
+# macOS
+*.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Others
+.idea/
+.vscode/
+*.swp
+
+# Build
+build/
+dist/
+
+# iOS
+ios/Pods/
+ios/build/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+*.xcodeproj/project.xcworkspace/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcsettings
+*.xccheckout
+*.moved-aside
+*.xcuserdatad
+*.xcscmblueprint
