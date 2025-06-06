@@ -1,0 +1,8 @@
+{
+  "name": "tesis_prediccion",
+  "private": true,
+  "packageManager": "npm@10.0.0",
+  "devDependencies": {
+    "turbo": "^2.5.4"
+  }
+}
